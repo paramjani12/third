@@ -1,0 +1,13 @@
+.topComponent{
+    padding:20px;
+    background-color: #1D3557;
+    height:100%;
+    min-height: 100vh;
+    color:#F1FAEE;
+    font-size:x-large;
+}
+.firstline{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}

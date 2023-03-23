@@ -1,0 +1,274 @@
+{
+  "protask": [
+    {
+      "id": 1,
+      "taskname": "Plan timeline",
+      "client": "Parisian and Sons",
+      "department": "Analyst",
+      "deadline": "2023-03-24",
+      "priority": "H",
+      "incharge": "Miss Ray Wisoky DVM"
+    },
+    {
+      "id": 2,
+      "taskname": "Allocate resources",
+      "client": "Considine - Paucek",
+      "department": "Accounts",
+      "deadline": "2023-03-27",
+      "priority": "L",
+      "incharge": "Debra Ward"
+    },
+    {
+      "id": 3,
+      "taskname": "Software Specification",
+      "client": "Considine - Paucek",
+      "department": "IT",
+      "deadline": "2023-03-30",
+      "priority": "H",
+      "incharge": "Emanuel Runte"
+    },
+    {
+      "id": 4,
+      "taskname": "Develop prototype",
+      "client": "Considine - Paucek",
+      "department": "IT",
+      "deadline": "2023-04-12",
+      "priority": "H",
+      "incharge": "Kashyap"
+    },
+    {
+      "id": 5,
+      "taskname": "Get approval from customer",
+      "client": "Considine - Paucek",
+      "department": "Analyst",
+      "deadline": "2023-04-11",
+      "priority": "H",
+      "incharge": "Andy Casper"
+    },
+    {
+      "id": 6,
+      "taskname": "Design Documentation",
+      "client": "Considine - Paucek",
+      "department": "IT",
+      "deadline": "2023-03-30",
+      "priority": "L",
+      "incharge": "Miriam Marquardt"
+    },
+    {
+      "id": 7,
+      "taskname": "Design complete",
+      "client": "Turcotte and Sons",
+      "department": "IT",
+      "deadline": "2023-03-30",
+      "priority": "L",
+      "incharge": "Woodrow Howell"
+    },
+    {
+      "id": 8,
+      "taskname": "Phase 1",
+      "client": "Turcotte and Sons",
+      "department": "IT",
+      "deadline": "2023-04-10",
+      "priority": "H",
+      "incharge": "Shelley Schamberger"
+    },
+    {
+      "id": 9,
+      "taskname": "Implementation Module 1",
+      "client": "Turcotte and Sons",
+      "department": "IT",
+      "deadline": "2023-04-11",
+      "priority": "H",
+      "incharge": "Isabel Bashirian"
+    },
+    {
+      "id": 10,
+      "taskname": "Testing",
+      "client": "Turcotte and Sons",
+      "department": "Devops",
+      "deadline": "2023-05-11",
+      "priority": "H",
+      "incharge": "Ervin Weber"
+    },
+    {
+      "id": 11,
+      "taskname": "Customer review meeting",
+      "client": "Turcotte and Sons",
+      "department": "Devops",
+      "deadline": "2023-04-11",
+      "priority": "L",
+      "incharge": "Janice Volkman"
+    },
+    {
+      "id": 12,
+      "taskname": "Phase 1 complete",
+      "client": "Dickinson, Rau and McCullough",
+      "department": "IT",
+      "deadline": "2023-03-30",
+      "priority": "L",
+      "incharge": "Leticia Braun"
+    },
+    {
+      "id": 13,
+      "taskname": "Bug fix",
+      "client": "Dickinson, Rau and McCullough",
+      "department": "Devops",
+      "deadline": "2023-04-19",
+      "priority": "L",
+      "incharge": "Joel Kub"
+    },
+    {
+      "id": 14,
+      "taskname": "Customer review meeting",
+      "client": "Dickinson, Rau and McCullough",
+      "department": "IT",
+      "deadline": "2023-03-30",
+      "priority": "L",
+      "incharge": "Mrs. Ignacio Harris"
+    },
+    {
+      "id": 15,
+      "taskname": "Design finalization",
+      "client": "Dickinson, Rau and McCullough",
+      "department": "IT",
+      "deadline": "2023-04-03",
+      "priority": "L",
+      "incharge": "Brent Miller"
+    },
+    {
+      "id": 16,
+      "taskname": "UI approval",
+      "client": "Dickinson, Rau and McCullough",
+      "department": "IT",
+      "deadline": "2023-06-30",
+      "priority": "L",
+      "incharge": "Latoya Kuhlman Jr."
+    },
+    {
+      "id": 17,
+      "taskname": "Client finalization",
+      "client": "McGlynn, Murray and Tillman",
+      "department": "Analyst",
+      "deadline": "2023-03-31",
+      "priority": "L",
+      "incharge": "Anna Parker"
+    },
+    {
+      "id": 18,
+      "taskname": "Standing meeting",
+      "client": "Parisian and Sons",
+      "department": "IT",
+      "deadline": "2023-04-01",
+      "priority": "H",
+      "incharge": "Kara Erdman"
+    },
+    {
+      "id": 19,
+      "taskname": "HR discussion",
+      "client": "Parisian and Sons",
+      "department": "HR",
+      "deadline": "2023-04-12",
+      "priority": "H",
+      "incharge": "Joanna Botsford"
+    },
+    {
+      "id": 20,
+      "taskname": "Team expansion",
+      "client": "Parisian and Sons",
+      "department": "HR",
+      "deadline": "2023-06-10",
+      "priority": "L",
+      "incharge": "Jesse King"
+    },
+    {
+      "id": 21,
+      "taskname": "Interview panel",
+      "client": "Parisian and Sons",
+      "department": "HR",
+      "deadline": "2023-05-03",
+      "priority": "H",
+      "incharge": "Terry Rosenbaum"
+    },
+    {
+      "id": 22,
+      "taskname": "Prototype implementation",
+      "client": "Berge - Hoeger",
+      "department": "IT",
+      "deadline": "2023-05-29",
+      "priority": "H",
+      "incharge": "Elias Wiza"
+    },
+    {
+      "id": 23,
+      "taskname": "Code updation",
+      "client": "Brekke - Carter",
+      "department": "IT",
+      "deadline": "2023-05-14",
+      "priority": "H",
+      "incharge": "Ryan Rowe"
+    },
+    {
+      "id": 24,
+      "taskname": "Team meeting",
+      "client": "Berge - Walker",
+      "department": "Devops",
+      "deadline": "2023-04-05",
+      "priority": "L",
+      "incharge": "Joel Hilll"
+    },
+    {
+      "id": 25,
+      "taskname": "Unit testing",
+      "client": "Weimann, Wiegand and Bartoletti",
+      "department": "Devops",
+      "deadline": "2023-04-13",
+      "priority": "L",
+      "incharge": "Marc Okuneva"
+    },
+    {
+      "id": 26,
+      "taskname": "Presentation",
+      "client": "Weimann, Wiegand and Bartoletti",
+      "department": "HR",
+      "deadline": "2023-04-07",
+      "priority": "L",
+      "incharge": "Janet Lueilwitz"
+    },
+    {
+      "id": 27,
+      "taskname": "Take approvals",
+      "client": "Weimann, Wiegand and Bartoletti",
+      "department": "Analyst",
+      "deadline": "2023-04-12",
+      "priority": "L",
+      "incharge": "Darren Hills"
+    },
+    {
+      "id": 28,
+      "taskname": "Discuss",
+      "client": "Weimann, Wiegand and Bartoletti",
+      "department": "IT",
+      "deadline": "2023-04-09",
+      "priority": "H",
+      "incharge": "Leo McDermott"
+    },
+    {
+      "id": 29,
+      "taskname": "Revision 1",
+      "client": "Weimann, Wiegand and Bartoletti",
+      "department": "IT",
+      "deadline": "2023-04-15",
+      "priority": "H",
+      "incharge": "Sandy Bogan"
+    },
+    {
+      "id": 30,
+      "taskname": "Deployment planning",
+      "client": "Weimann, Wiegand and Bartoletti",
+      "department": "Devops",
+      "deadline": "2023-04-12",
+      "priority": "H",
+      "incharge": "Jackie Kunde I"
+    }
+  ]
+}
